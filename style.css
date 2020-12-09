@@ -150,3 +150,7 @@ input[type=text], select, textarea {
   text-align: center;
   color: #ADEFD1FF;
   }
+  .github{
+    margin-left: 15px;
+    margin-top: 22px;
+  }
